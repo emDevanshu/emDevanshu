@@ -2,18 +2,21 @@
 
 <h1 align="center">Hi 👋, I'm Devanshu Sharma</h1>
 <h3 align="center">A spirited person, likes to code and create music</h3>
-<img align="right" width="380" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" width="350" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <br>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=emdevanshu&label=Profile%20views&color=0e75b6&style=flat" alt="emdevanshu" /> </p> -->
 
-
-- 🌱 I’m currently learning **frontend and java development along with DSA**
+- 🤟 I’m currently learning different **programming languages and software skills.**
+- 👀 _Dev likes to dev_ 🧑🏻‍💻
+-   ‹‹‹‹‹‹‹‹Love to play basketball🏀›››››››
+-            ‹‹‹‹‹‹‹‹Piano🎹 —> 1st love››››››››››
 
 - 📫 How to reach me **devanshusharma0223@gmail.com**
-
 - ⚡ Fun fact **I'm coding hard so that I can buy myself a good piano.**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +28,8 @@
 <a href="https://www.leetcode.com/devanshusharma0223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/devanshusharma0223/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/devanshusharma0223/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/devanshusharma0223/practice/" height="30" width="40" /></a>
 </p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
