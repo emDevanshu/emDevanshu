@@ -9,8 +9,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=emdevanshu&label=Profile%20views&color=0e75b6&style=flat" alt="emdevanshu" /> </p> -->
 
 - 🤟 I’m currently learning different **programming languages and software skills.**
-- 👀 _Dev likes to dev_ 🧑🏻‍💻
--   ‹‹‹‹‹‹‹‹Love to play basketball🏀›››››››
+- 👀 _Dev likes to dev_ 🧑🏻‍💻 <br>
+   ‹‹‹‹‹‹‹‹Loves to play basketball🏀›››››››
 -            ‹‹‹‹‹‹‹‹Piano🎹 —> 1st love››››››››››
 
 - 📫 How to reach me **devanshusharma0223@gmail.com**
