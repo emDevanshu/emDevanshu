@@ -21,8 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/devanshusharma10/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/devanshusharma10/" /></a>   
-<a href="https://www.youtube.com/channel/UCRW2kRM8s0dlBRqhWjFleiw" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/ucrw2krm8s0dlbrqhwjfleiw"/></a>
+<a href="https://linkedin.com/in/devanshusharma10/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/devanshusharma10/" /></a>   <a href="https://www.youtube.com/channel/UCRW2kRM8s0dlBRqhWjFleiw" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/ucrw2krm8s0dlbrqhwjfleiw"/></a>
 
 
 <a href="https://www.codechef.com/users/dev10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/dev10" height="30" width="40" /></a>
