@@ -21,13 +21,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/devanshusharma10/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/devanshusharma10/" /></a>   <a href="https://www.youtube.com/channel/UCRW2kRM8s0dlBRqhWjFleiw" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/ucrw2krm8s0dlbrqhwjfleiw"/></a>
+<a href="https://linkedin.com/in/devanshusharma10/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/devanshusharma10/" /></a>   <a href="https://www.youtube.com/channel/UCRW2kRM8s0dlBRqhWjFleiw" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/ucrw2krm8s0dlbrqhwjfleiw"/></a> <a href="https://www.leetcode.com/devanshusharma0223/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="https://leetcode.com/devanshusharma0223/" /></a> <a href="https://www.codechef.com/users/dev10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/dev10" height="30" width="40" /></a>
 
+<a href="https://www.hackerrank.com/devanshusharma10?hr_r=1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/devanshusharma10?hr_r=1" /></a>
 
-<a href="https://www.codechef.com/users/dev10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/dev10" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/devanshusharma10?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/devanshusharma10?hr_r=1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/devanshusharma0223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/devanshusharma0223" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devanshusharma0223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/devanshusharma0223/" height="30" width="40" /></a>
+
+
+
 <a href="https://auth.geeksforgeeks.org/user/devanshusharma0223/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/devanshusharma0223/practice/" height="30" width="40" /></a>
 </p>
 
