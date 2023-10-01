@@ -1,4 +1,8 @@
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@master/ci.min.css"
+/>
 
 <h1 align="center">Hi 👋, I'm Devanshu Sharma</h1>
 <h3 align="center">A spirited person, likes to code and create music</h3>
@@ -20,12 +24,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://www.leetcode.com/devanshusharma0223/" target="blank"><img align="center" src="https://drive.google.com/file/d/16BKH6lFOiEYcv_rqdRY0Uu4StSEt4lvb/view?usp=share_link" alt="https://www.leetcode.com/devanshusharma0223/" height="30" width="40" /></a>
    
 <a href="https://linkedin.com/in/devanshusharma10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devanshusharma10/" height="30" width="40" /></a>
 
 
+<i class="ci ci-linkedin"></i>
 
    
 <a href="https://www.youtube.com/channel/UCRW2kRM8s0dlBRqhWjFleiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucrw2krm8s0dlbrqhwjfleiw" height="30" width="40" /></a>
