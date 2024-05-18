@@ -16,7 +16,7 @@
 -            ‹‹‹‹‹‹‹‹Piano🎹 —> 1st love››››››››››
 
 - 📫 How to reach me **devanshusharma0223@gmail.com**
-- ⚡ Fun fact **I'm coding hard so that I can buy myself a good piano.**
+- ⚡ Fun fact **I'm coding hard so that I can buy myself my dream bike.**
 
 <br>
 
